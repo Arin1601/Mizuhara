@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://github.com/pratyush4932/followers"><img title="Followers" src="https://img.shields.io/github/followers/pratyush4932?color=red&style=flat-square"></a>
 <a href="https://github.com/Arus-Bots/Mizuhara/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Arus-Bots/Mizuhara?color=blue&style=flat-square"></a>
-<a href="https://github.com/Arus-Bots/Mizuhara/network/members"><img title="Forks" src="https://img.shields.io/github/forks/?color=red&style=flat-square"></a>
+<a href="https://github.com/Arus-Bots/Mizuhara/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Arus-Bots/Mizuhara?color=red&style=flat-square"></a>
 <a href="https://github.com/zeeone-ofc/Alphabot-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeone-ofc/Alphabot-Md?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Arus-Bots/Mizuhara/"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 <a href="https://github.com/Arus-Bots/Mizuhara/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeone-ofc/Alphabot-Md?style=flat-square&color=green"></a>
