@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://telegra.ph/file/485d99165388e3e42be7c.jpg"><img src="https://telegra.ph/file/485d99165388e3e42be7c.jpg" alt="mizuhara" border="0"></a>
+<a href="https://c.tenor.com/G1jVjFnK_64AAAAC/chizuru-mizuhara.gif"><img src="https://c.tenor.com/G1jVjFnK_64AAAAC/chizuru-mizuhara.gif" alt="mizuhara" border="0"></a>
 
 # **MIZUHARA : ANIME THEMED WHATSAPP BOT WITH RICH FEATURES**
 
