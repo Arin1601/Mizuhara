@@ -45,16 +45,19 @@
 
 ## MIZUHARA
 > This is a open source project by the TEAM ARUS. After forking don't do any change. If you do we will sue you for sure. If you wanna do any changes click the following Whatsapp icons and join our groups and contact an OWNER 
- 
-## HELP
-> Please give this repo a ⭐ if it helped you.
+
+## Requirements
+* [Node.js](https://nodejs.org/en/)
+* [Git](https://git-scm.com/downloads)
+* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip) (for sticker command)
+
 
 ## Clone this project
 ```bash
 > git clone https://github.com/MhankBarBar/whatsapp-bot
 ```
 
-## Install the dependencies:
+## Installation:
 
 > Before running the below command, make sure you're in the project directory that
 you've just cloned!!
@@ -69,6 +72,8 @@ To keep it on forever
  > pm2 save 
 > pm2 logs
 ```
+## HELP
+> Please give this repo a ⭐ if it helped you.
 
 ## CONTRIBUTION
 
