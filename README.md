@@ -50,7 +50,7 @@ HOW TO REACH THE OWNER? 👇👇👇
   </a>&nbsp;&nbsp;
 
 # Thanks to
-<a href="https://github.com/pratyush4932"><img src="https://github.com/pratyush4932.png?size=100" width="100" height="100"></a> | [![AMRIT](https://github.com/Amrit9304.png?size=100" width="100" height="100")](https://github.com/Amrit9304) 
+<a href="https://github.com/pratyush4932"><img src="https://github.com/pratyush4932.png?size=100" width="100" height="100"></a> | [![AMRIT](https://github.com/Amrit9304.png?size=100)](https://github.com/Amrit9304) 
 ---|---
 [Pratyush](https://github.com/pratyush4932)  | [Amrit](https://github.com/Amrit9304)
 Owner of Mizuhara | Constributor |
