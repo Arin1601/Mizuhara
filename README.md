@@ -97,4 +97,4 @@ Owner of Mizuhara | Contributor |
 Contributor | Owner of Baileys |
 <a href="https://github.com/Death-132"><img src="https://github.com/Death-132.png?size=100" width="100" height="100"></a>
 [Death](https://github.com/Death-132)
-Just a worker 
+Useless worker 
