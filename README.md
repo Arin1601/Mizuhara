@@ -21,7 +21,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/pratyush4932"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5%EF%B8%8F-blue.svg?style=for-the-badge"></a>
-<a href="https://github.com/is7s7whs"><img title="" src="https://img.shields.io/badge/Maintained-YES-green.svg?style=for-the-badge"></a>
+<a href="https://github.com/is7s7whs"><img title="" src="https://img.shields.io/badge/Maintained?-YES-green.svg?style=for-the-badge"></a>
 </p>
 
 
