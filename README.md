@@ -50,16 +50,13 @@
 > Please give this repo a ⭐ if it helped you.
 
 ## Clone this project
-
-```bash
 > git clone https://github.com/MhankBarBar/whatsapp-bot
-```
+
 
 ## Install the dependencies:
 Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
-```bash
 > npm install
 > npm start
 
@@ -69,7 +66,7 @@ To keep it on forever
 > pm2 start heart.js
 > pm2 save 
 > pm2 logs
-```
+
 
 ## CONTRIBUTION
 
