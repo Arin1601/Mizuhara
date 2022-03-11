@@ -79,13 +79,13 @@ To keep it on forever
 
 ## CONTRIBUTION
 
-> Feel free to open issues regarding any problems or if you have any feature
-    requests
-
-HOW TO REACH THE OWNER? 👇👇👇
-   <a href="https://wa.me/918231033230?text=Hi%20I%20Am%20From%20GitHub%20☺️">
+> Feel free to open issues regarding any problems or
+> If you have any feature feel free to contact owner
+<a href="https://wa.me/918231033230?text=Hi%20I%20Am%20From%20GitHub%20☺️">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
+
+  
 
 # Thanks to
 <a href="https://github.com/pratyush4932"><img src="https://github.com/pratyush4932.png?size=100" width="100" height="100"></a> | [![AMRIT](https://github.com/Amrit9304.png?size=100)](https://github.com/Amrit9304) 
