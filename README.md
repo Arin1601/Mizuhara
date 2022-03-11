@@ -29,11 +29,10 @@
 > A Fully Modular and Efficient Bot <br>
 
 <p align="center">
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#requirements">Requirements</a> •
-  <a href="https://github.com/Arus-Bots/Mizuhara#Installation">Installation</a> •
-  <a href="https://github.com/Arus-Bots/Mizuhara#thanks-to">Thanks to</a> •
-  <a href="https://chat.whatsapp.com/LN4mY3laHz61S1ybxHBeYd"> Official Group Bot</a> •
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#donate">Donate</a>
+  <a href="https://github.com/Arus-Bots/Mizuhara#Requirements">REQUIREMENTS</a> •
+  <a href="https://github.com/Arus-Bots/Mizuhara#Installation">HOW TO INSTALL?</a> •
+  <a href="https://chat.whatsapp.com/LN4mY3laHz61S1ybxHBeYd"> OFFICIAL WHATSAPP GROUP</a> •
+  <a href="https://github.com/Arus-Bots/Mizuhara#thanks-to">THANKS TO~</a> •
 </p>
 </div>
 
