@@ -39,10 +39,10 @@
 
 ---
 
-## Information
+## 📚 Information 📚
 > A simple and easy-to-use WhatsApp bot project with anime features based on Multi-Device Baileys and written in JavaScript
 
-## MIZUHARA
+## 💙 MIZUHARA 💙
 > This is a open source project by the TEAM ARUS. After forking don't do any change. If you do we will sue you for sure. If you wanna do any changes click the following Whatsapp icons and join our groups and contact an OWNER 
 
 ## Requirements
