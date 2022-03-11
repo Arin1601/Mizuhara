@@ -10,7 +10,7 @@
 <div align="center">
 <a href="https://c.tenor.com/G1jVjFnK_64AAAAC/chizuru-mizuhara.gif"><img src="https://c.tenor.com/G1jVjFnK_64AAAAC/chizuru-mizuhara.gif" alt="mizuhara" border="0"></a>
 
-# **MIZUHARA : ANIME THEMED WHATSAPP BOT WITH RICH FEATURES**
+# **MIZUHARA : ANIME THEMED MULTI DEVICE WHATSAPP BOT WITH COOL FEATURES**
 
 </p>
 <p align="center">
@@ -26,7 +26,7 @@
 
 
 ## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LN4mY3laHz61S1ybxHBeYd) [![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)](https://js.org/) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-> A Fully Modular and Efficient Bot <br>
+> A Full Fledged MD Bot For Bot Lovers <br>
 
 <p align="center">
   <a href="https://github.com/Arus-Bots/Mizuhara#Requirements">REQUIREMENTS</a> •
@@ -43,7 +43,7 @@
 > A simple and easy-to-use WhatsApp bot project with anime features based on Multi-Device Baileys and written in JavaScript
 
 ## 💙 MIZUHARA 💙
-> This is a open source project by the TEAM ARUS. After forking don't do any change. If you do we will sue you for sure. If you wanna do any changes click the following Whatsapp icons and join our groups and contact an OWNER 
+> This is a open source project by the TEAM ARUS. After forking don't do any change. If you do we will sue you for sure. If you wanna do any changes click the following Whatsapp icons and join our groups and contact the OWNER or moderators
 <a href="https://wa.me/918231033230?text=Hi%20I%20Am%20From%20GitHub%20☺️">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -75,7 +75,7 @@ To keep it on forever
 > pm2 logs
 ```
 ## HELP
-> Please give this repo a ⭐ if it helped you.
+> Please give this repo a ⭐ if you liked it.
 
 ## CONTRIBUTE
 
