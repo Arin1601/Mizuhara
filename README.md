@@ -58,15 +58,15 @@
 
 > Before running the below command, make sure you're in the project directory that
 you've just cloned!!
-```basg
-> npm install
+```bash
+ > npm install
 > npm start
 
 To keep it on forever
 
 > npm i pm2
 > pm2 start heart.js
-> pm2 save 
+ > pm2 save 
 > pm2 logs
 ```
 
