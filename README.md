@@ -43,13 +43,26 @@
 ## Information
 > A simple and easy-to-use WhatsApp bot project with anime features based on Multi-Device Baileys and written in JavaScript
 
-# MIZUHARA
+## MIZUHARA
 > This is a open source project by the TEAM ARUS. After forking don't do any change. If you do we will sue you for sure. If you wanna do any changes click the following Whatsapp icons and join our groups and contact an OWNER 
  
 ## HELP
 > Please give this repo a ⭐ if it helped you.
 
-## 💪 Contribution
+## INSTALLATION FOR WINDOWS/RDP
+> git clone https://github.com/Arus-Bots/Mizuhara.git
+cd Mizuhara
+npm install
+npm start
+
+To keep it on forever
+
+npm i pm2
+pm2 start heart.js
+pm2 save 
+pm2 logs
+
+## CONTRIBUTION
 
 > Feel free to open issues regarding any problems or if you have any feature
     requests
