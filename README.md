@@ -49,18 +49,27 @@
 ## HELP
 > Please give this repo a ⭐ if it helped you.
 
-## INSTALLATION FOR WINDOWS/RDP
-> git clone https://github.com/Arus-Bots/Mizuhara.git
-cd Mizuhara
-npm install
-npm start
+## Clone this project
+
+```bash
+> git clone https://github.com/MhankBarBar/whatsapp-bot
+```
+
+## Install the dependencies:
+Before running the below command, make sure you're in the project directory that
+you've just cloned!!
+
+```bash
+> npm install
+> npm start
 
 To keep it on forever
 
-npm i pm2
-pm2 start heart.js
-pm2 save 
-pm2 logs
+> npm i pm2
+> pm2 start heart.js
+> pm2 save 
+> pm2 logs
+```
 
 ## CONTRIBUTION
 
