@@ -30,7 +30,7 @@
 <p align="center">
   <a href="https://github.com/zeeone-ofc/Alphabot-Md#requirements">Requirements</a> •
   <a href="https://github.com/zeeone-ofc/Alphabot-Md#instalasi">Installation</a> •
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#thanks-to">Thanks to</a> •
+  <a href="https://github.com/Arus-Bots/Mizuhara#thanks-to">Thanks to</a> •
   <a href="https://chat.whatsapp.com/LN4mY3laHz61S1ybxHBeYd"> Official Group Bot</a> •
   <a href="https://github.com/zeeone-ofc/Alphabot-Md#donate">Donate</a>
 </p>
