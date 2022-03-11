@@ -77,7 +77,7 @@ To keep it on forever
 ## HELP
 > Please give this repo a ⭐ if it helped you.
 
-## CONTRIBUTION
+## CONTRIBUTE
 
 > Feel free to open issues regarding any problems or
 > If you have any feature feel free to contact owner
