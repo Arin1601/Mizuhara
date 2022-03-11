@@ -20,7 +20,7 @@
 <a href="https://github.com/pratyush4932"><img title="Author" src="https://img.shields.io/badge/Author-Pratyush-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Arus-Bots/Mizuhara/"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/pratyush4932"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5%EF%B8%8F-blue.svg?style=for-the-badge"></a>
 </p>
 
 
