@@ -1,7 +1,7 @@
 
 <div align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&duration=4999&color=F71813&background=FF673200&center=true&vCenter=true&multiline=true&lines=HI+I+AM+MIZUHARA;A+WHATSAPP+BOT+ON+BAILEYS+MULTI-DEVICE"
+        src="https://readme-typing-svg.herokuapp.com?font=Supermercado+One&duration=4997&color=B8212C&background=FF673200&center=true&vCenter=true&lines=HI+I+AM+MIZUHARA;A+WHATSAPP+BOT+ON+BAILEYS+MULTI-DEVICE"
             alt="Typing SVG"
         />
     </a>
