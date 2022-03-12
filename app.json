@@ -16,6 +16,7 @@
     "website": "https://github.com/Arus-Bots/Mizuhara#readme",
     "repository": "https://github.com/Arus-Bots/Mizuhara",
     "logo": "",
+    "success_url": "/",
     "stack": "container",
     "env": {
         "PREFIX": {
