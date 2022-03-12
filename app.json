@@ -1,10 +1,11 @@
 {
-	"name": "Mizuhara",
-	"description": "WhatsApp Bot Using Lib Baileys",
-	"repository": "https://github.com/Arus-Bots/Mizuhara",
-	"logo": "https://node-js-sample.herokuapp.com/node.png",
-	"keywords": ["multi-device"]
-"success_url": "/",
+  "name": "Mizuhara-MD-Botto",
+  "description": "MD WhatsApp bot made it with love.",
+  "keywords": ["MD-WhatsApp-Botto"],
+  "website": "https://github.com/Arus-Bots/Mizuhara#readme",
+  "repository": "https://github.com/Arus-Bots/Mizuhara.git",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMhoWmlIZrKStrO6EfJzRhdx379z1gBhLHMw&usqp=CAU",
+  "success_url": "/",
   "env": {
     "PREFIX": {
       "description": "Prefix of your bot"
@@ -12,12 +13,14 @@
     "SESSION": {
       "description": "A string for the session to be classified and to get access to the server endpoints"
     },
-    "PACKNAME": {
-      "description": "A string for the session to be classified and to get access to the server endpoints"
+    "MODS": {
+      "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")
     },
-    "OWNER": {
-      "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "required": false
+    "PACKNAME": {
+      "description": "Name of the sticker pack"
+    },
+    "BOTNAME": {
+      "description": "Your bot name"
     }
   },
   "buildpacks": [
@@ -26,6 +29,9 @@
     },
     {
       "url": "https://github.com/PrajjwalDatir/heroku-buildpack-imagemagick.git"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
     },
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
