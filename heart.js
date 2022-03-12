@@ -1,5 +1,6 @@
 
 require('./config')
+require('./brain.js')
 const { default: arusConnect, useSingleFileAuthState, DisconnectReason, generateForwardMessageContent, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, proto } = require("@adiwajshing/baileys")
 const { state, saveState } = useSingleFileAuthState(`./${sessionName}.json`)
 const pino = require('pino')
@@ -65,6 +66,9 @@ async function startArus() {
 
    arus.ev.on('group-participants.update', async (grp) => {
         console.log(grp)
+let wel=gp.get(`${m.chat}.welc`)
+let wlc=(wel)?wel:[]
+if(wlc.includes(grp.id)){   
         try {
             let metadata = await arus.groupMetadata(grp.id)
             let participants = grp.participants
@@ -123,6 +127,7 @@ ${metadata.desc}
         } catch (err) {
             console.log(err)
         }
+}
     })
 	
     // Setting
