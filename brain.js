@@ -15,9 +15,9 @@ const { Primbon } = require('scrape-primbon')
 const primbon = new Primbon()
 const { smsg, formatp,  formatDate, getTime, isUrl, sleep, clockString, runtime, fetchJson, getBuffer, jsonformat, format, parseMention, getRandom } = require('./lib/myfunc')
 const yts= require("yt-search")
-db = require('quick.db')
-tb = new db.table('exp')
-gp= new db.table('grp')
+global.db = require('quick.db')
+global.tb = new db.table('exp')
+global.gp= new db.table('grp')
 const canvacord=require('canvacord')
 module.exports = arus = async (arus, m, chatUpdate, store) => {
     try {
