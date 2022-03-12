@@ -85,7 +85,10 @@ To keep it on forever
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
 
-  
+## 📄 License
+
+Distributed under the GNU AFFERO GENERAL PUBLIC License. See [LICENSE](/LICENSE)
+for more information.
 
 # Thanks to
 <a href="https://github.com/pratyush4932"><img src="https://github.com/pratyush4932.png?size=100" width="100" height="100"></a> | [![AMRIT](https://github.com/Amrit9304.png?size=100)](https://github.com/Amrit9304) 
