@@ -27,7 +27,6 @@
             "value": "Mizuhara"
         }
    },
-  ],
         "buildpacks": [
           {
       "url": "heroku/nodejs"
