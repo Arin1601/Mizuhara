@@ -27,10 +27,6 @@
             "value": "Mizuhara"
         }
    },
-  "addons": [
-    {
-      "plan": "heroku-postgresql"
-    }
   ],
         "buildpacks": [
           {
