@@ -3,6 +3,7 @@ FROM node:lts-buster
 RUN apt-get update && \
   apt-get install -y \
   ffmpeg \
+  yarn \
   imagemagick \
   webp && \
   apt-get upgrade -y && \
@@ -10,7 +11,7 @@ RUN apt-get update && \
 
 COPY package.json .
 
-RUN npm install
+RUN yarn
 
 COPY . .
 
