@@ -3,14 +3,14 @@ FROM node:lts-buster
 RUN apt-get update && \
   apt-get install -y \
   ffmpeg \
-  yarn \
   imagemagick \
-  webp
+  webp && \
+  apt-get upgrade -y
 
 COPY package.json .
 
-RUN yarn
+RUN npm install
 
 COPY . .
 
-CMD ["yarn run build", "npm start"]
+CMD ["node", "."]
