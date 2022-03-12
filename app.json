@@ -17,7 +17,6 @@
     "repository": "https://github.com/Arus-Bots/Mizuhara",
     "logo": "",
     "stack": "container",
-    "success_url": "/",
     "env": {
         "PREFIX": {
             "description": "Prefix of your bot"
