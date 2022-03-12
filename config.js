@@ -14,11 +14,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['918231033230']
-global.packname = 'Ichika'
-global.prefix= ['=']
+global.owner = [process.env.MOD]
+global.packname = process.env.NAME
+global.prefix= [process.env.PREFIX]
 global.author = ''
-global.sessionName = 'arus'
+global.sessionName = process.env.SESSION
 global.mess = {
     success: '*Here you go...*',
     admin: '*Oops!! sorry dude this is only for admins*',
