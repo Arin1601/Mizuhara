@@ -1,7 +1,7 @@
 {
   "name": "mizuhara",
   "version": "1.0.0",
-  "description": "WhatsApp Using Lib Baileys Multi Device",
+  "description": "WhatsApp Bot Using Baileys Multi Device",
   "main": "heart.js",
   "type": "commonjs",
   "scripts": {
