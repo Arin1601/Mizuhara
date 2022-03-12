@@ -43,10 +43,7 @@
 > A simple and easy-to-use WhatsApp bot project with anime features based on Multi-Device Baileys and written in JavaScript
 
 ## 💙 MIZUHARA 💙
-> This is a open source project by the TEAM ARUS. After forking don't do any change. If you do we will sue you for sure. If you wanna do any changes click the following Whatsapp icons and join our groups and contact the OWNER or moderators
-<a href="https://wa.me/918231033230?text=Hi%20I%20Am%20From%20GitHub%20☺️">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>&nbsp;&nbsp;
+> This is a open source project by the TEAM ARUS. After forking don't do any change. If you do we will sue you for sure. If you wanna do any changes click the following Whatsapp icons and join our groups and contact the [`Owner`](https://wa.me/918231033230?text=Hi%20I%20Am%20From%20GitHub%20☺️) or moderators
 
 ## HEROKU { UNDER DEVELOPMENT }
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Arus-Bots/Mizuhara)
