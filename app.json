@@ -1,7 +1,44 @@
 {
-	"name": "Mizuhara",
-	"description": "WhatsApp Bot Using Lib Baileys",
-	"repository": "https://github.com/Arus-Bots/Mizuhara",
-	"logo": "https://node-js-sample.herokuapp.com/node.png",
-	"keywords": ["multi-device"]
-}
+  "name": "Mizuhara-MD-Botto",
+  "description": "MD WhatsApp bot made it with love.",
+  "keywords": ["MD-WhatsApp-Botto"],
+  "website": "https://github.com/Arus-Bots/Mizuhara#readme",
+  "repository": "https://github.com/Arus-Bots/Mizuhara.git",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMhoWmlIZrKStrO6EfJzRhdx379z1gBhLHMw&usqp=CAU",
+  "stack": "container",
+    "env": {
+        "SESSION": {
+            "description": "Name the session of the bot.",
+            "required": true,
+            "value": "arus"
+        },
+        "MOD": {
+            "description": "Owner number, if you use multiple then use comma.",
+            "required": false
+        },
+        "PREFIX": {
+            "description": "Set the bot prefix.",
+            "required": true,
+            "value": "="
+        },
+        "NAME": {
+            "description": "Name of the bot.",
+            "required": true,
+            "value": "Mizuhara"
+        }
+   },
+        "buildpacks": [{
+          {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/PrajjwalDatir/heroku-buildpack-imagemagick.git"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+    }]
+  }
+        
