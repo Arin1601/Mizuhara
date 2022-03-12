@@ -8,13 +8,16 @@
     "start": "node heart.js"
   },
   "keywords": [
-    "termux",
+    "bot",
     "whatsapp",
-    "2021",
+    "whatsapp-stickers",
+    "whatsapp-bot",
+    "whatsapp-sticker-bot",
+    "whatsapp",
+    "2022",
     "wabase-md",
     "base",
     "baileys-md",
-    "bot"
   ],
   "author": "Pratyush.",
   "license": "AGPL-3.0",
