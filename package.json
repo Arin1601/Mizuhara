@@ -17,7 +17,7 @@
     "bot"
   ],
   "author": "Pratyush.",
-  "license": "MIT",
+  "license": "AGPL-3.0",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
     "@adiwajshing/keyed-db": "^0.2.4",
