@@ -160,9 +160,24 @@ case 'hi':
        break
 case '':
     if(icmd){
-      m.reply('Did You mean Help?')
+
+
+    const dbut = [
+{buttonId: '=help', buttonText: {displayText: '🍂 Help'}, type: 1},
+{buttonId: '=mods', buttonText: {displayText: '💥 Arus Team'}, type: 1}
+]
+let buttonMessaged = {
+        image: {url:"https://telegra.ph/file/645707c1698c8a9515953.jpg"},
+        caption: `*DID YOU MEAN =help ?*`,
+        footer: '©MIZUHARA~ARUS',
+        buttons: dbut,
+        headerType: 4
     }
-break
+
+ await arus.sendMessage(m.chat,buttonMessaged,{quoted:m})
+}
+ break
+      
 
 case 'help':
 const hlp=
@@ -260,7 +275,7 @@ const hlp=
 
 
  🍁 *©Powered by Arus* 🍁`
-           arus.sendMessage(m.chat,{video:fs.readFileSync('./src/help.mp4'),caption:hlp},{quoted:m})
+           arus.sendMessage(m.chat,{video:fs.readFileSync('./src/help.mp4'),gifPlayback:true,caption:hlp},{quoted:m})
 break
 
 case 'info':
@@ -961,18 +976,14 @@ var walb = [
 //arus.sendMessage(m.chat,{image:{url:wallpaper[i].image},caption:`*Query :* ${q}`})            
 break
             default:
-
+arus.sendMessage(m.chat,{text:`Baka!! Try using the commands from help list`},{quoted:m})
         }
         
 
     } catch (err) {
         const time = moment.tz('Asia/Kolkata').format('DD/MM HH:mm:ss')
         arus.sendMessage("120363041582995306@g.us",{text:`*Time:* ${time}\n\n`+`*ERROR:* ${util.format(err)}`})
-        arus.sendMessage(m.chat,{ 
-        video: fs.readFileSync('./src/error.mp4'), 
-        caption: "Oops an Unknown Error occured will be fixed soon!!!",
-        gifPlayback: true
-    })
+    
     }
 }
 
